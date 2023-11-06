@@ -1,0 +1,9 @@
+.board-wrapper {
+  display: block;
+  padding: 20px 0px 20px 0px;
+  text-align: center;
+}
+
+.title {
+  font-size: 1.4em;
+}
